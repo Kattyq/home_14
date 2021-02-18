@@ -1,0 +1,6 @@
+import './components/header/header.js'
+import './components/nav/nav.js'
+import './components/main/main.js'
+import './components/App.js'
+import './components/modalWindow/modalWindow.js'
+import './components/footer/footer.js'
